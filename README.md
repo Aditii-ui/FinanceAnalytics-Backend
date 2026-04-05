@@ -70,7 +70,7 @@ annotations.
 
 ---
 
-# 🧾 Features Implemented
+#  Features Implemented
 
 ## Authentication
 
@@ -149,8 +149,7 @@ financial_records
 
 ---
 
-#  Authentication Flow
 
-## Step 1 — Register User
+
 
 
